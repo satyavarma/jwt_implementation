@@ -1,0 +1,5 @@
+com/test/managers/JWTManager.class
+com/test/controllers/JWTController.class
+com/test/daos/RedisDAO.class
+com/test/managers/RedisManager.class
+com/test/controllers/TestController.class
